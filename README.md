@@ -19,3 +19,6 @@ a.     What type of restaurants has the worst ratings?
 5)   Is the quality/cleanness of restaurants improving or worsening over time?
 
 6)   What are the top 3 causes for violations?
+
+
+## Find Solution Attached
